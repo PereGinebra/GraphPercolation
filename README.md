@@ -1,2 +1,3 @@
-# Graph-Percolation-Projecte-A-
-Projecte d'Algorismia FIB de percolació de grafs
+# Graph Percolation (Projecte A) 
+Generation and percolation of graphs for an algorithmics project at FIB UPC.
+In collaboration with Joan Domingo Navarro
